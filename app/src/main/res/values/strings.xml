@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Input Control Toast / Alert</string>
+    <string name="descLogo">Logo UTB</string>
+    <string name="nama">Ikhsan Pratama HM</string>
+    <string name="npm">23552012008</string>
+    <string name="tombol_toast">Toast</string>
+    <string name="tombol_alert">Alert</string>
+    <string name="judulDialog">Perhatian!</string>
+    <string name="pesanDialog">Ini adalah contoh ALERT!</string>
+</resources>
